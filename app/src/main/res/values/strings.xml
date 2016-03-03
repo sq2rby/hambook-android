@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">humhub</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="setting_url">Type in here the url to your humhub</string>
+    <string name="setting_saveButton">Save the url</string>
+    <string name="setting_notification">Enable push-notifications?</string>
+    <string name="title_activity_welcome">Welcome</string>
 </resources>
