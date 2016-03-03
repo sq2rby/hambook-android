@@ -8,6 +8,12 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        //check if a url is set and then decide which view can be loaded
+
+
         setContentView(R.layout.activity_main);
+
+
     }
 }
