@@ -2,8 +2,8 @@ Here comes the android app for the popular humhub-application (https://www.humhu
 
 The goals are:
 
-1.) create a webview
-2.) create a setting-activity, where you can set up your personal url to your personal humhub installation
-3.) create push functionality to get your personal notification of your humhub account. This should be realised by parse.com
+1.) create a simple webview
+2.) create a setting-activity where you can set up your personal url to your personal humhub installation
+3.) create push functionality to get your personal notification of your humhub account. This should be realised with help of parse.com
 4.) to realise #3.) it is needed to create a humhub-module (https://www.humhub.org/de/marketplace)
 
