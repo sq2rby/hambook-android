@@ -13,5 +13,10 @@ ToDo    3.) create push functionality to get your personal notification of your 
 ToDo    4.) to realise #3.) it is needed to create a humhub-module (https://www.humhub.org/de/marketplace)
 
 Until no it looks like that:
+
+![Alt text](/download_app/screenshots/startingPage.JPG?raw=true "Login Page")
 ![Alt text](/download_app/screenshots/loginPage.JPG?raw=true "Login Page")
+![Alt text](/download_app/screenshots/timeline.JPG?raw=true "Login Page")
+![Alt text](/download_app/screenshots/profileEditing.JPG?raw=true "Login Page")
+![Alt text](/download_app/screenshots/wiki.JPG?raw=true "Login Page")
 
