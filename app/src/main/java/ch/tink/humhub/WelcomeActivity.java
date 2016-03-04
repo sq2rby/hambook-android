@@ -1,6 +1,7 @@
 package ch.tink.humhub;
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -34,7 +35,7 @@ public class WelcomeActivity extends AppCompatActivity {
 
     private void editThisText(){
         this.url = (EditText) findViewById(R.id.editText2);
-        this.url.setText("https://community.humhub.org");
+        this.url.setText("https://community.humhub.com");
         this.url.selectAll();
 
         InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
@@ -46,8 +47,8 @@ public class WelcomeActivity extends AppCompatActivity {
 
         if(textToCheck.startsWith("https://") || textToCheck.startsWith("http://")){
             this.saveUrl(textToCheck);
-            setContentView(R.layout.activity_main);
-            finish();
+            Intent intent = new Intent(WelcomeActivity.this, MainActivity.class);
+            startActivity(intent);
         }
 
     }

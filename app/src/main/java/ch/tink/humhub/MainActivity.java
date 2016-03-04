@@ -18,12 +18,12 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
 
         this.sharedPreferences = this.getSharedPreferences("share",MODE_PRIVATE);
 
         //check if a url is set and then decide which view can be loaded
         if(this.isUrlSet()){
-            setContentView(R.layout.activity_main);
             this.myWebView = (WebView) findViewById(R.id.webView);
             this.loadWebView();
         }
