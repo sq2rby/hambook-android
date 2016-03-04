@@ -8,7 +8,7 @@
     <string name="setting_notification">Enable push-notifications?</string>
 
     <!--WelcomeActivity-->
-    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_welcome"></string>
     <string name="welcome_first">Hello to Humhub mobile!</string>
     <string name="welcome_second">First type in the url to your humhub installation.</string>
     <string name="welcome_save">OK</string>
