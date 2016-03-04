@@ -1,6 +1,6 @@
 Here comes the android app for the popular humhub-application (<https://www.humhub.org/>)
 
-A first, very simple version can be downloaded here: a link comes in the next hours
+A first, very simple version can be downloaded here: <https://play.google.com/store/apps/details?id=ch.tink.humhub>
 
 In the mean time you can download the apk-file here: <https://github.com/michaelscheurer/humhub-android/tree/master/download%20app> and install it
 
