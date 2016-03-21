@@ -23,6 +23,14 @@ The further tasks are:
     </tr>
     <tr>
             <td>
+                ToDo
+            </td>
+            <td>
+                Check url, if it's a humhub installation or just a random website.
+            </td>
+    </tr>
+    <tr>
+            <td>
                 Doing
             </td>
             <td>
@@ -34,7 +42,7 @@ The further tasks are:
                 Todo
             </td>
             <td>
-                create push functionality to get your personal notification of your humhub account. This should be realised with help of parse.com
+                create push functionality to get your personal notification of your humhub account.
             </td>
         </tr>
         <tr>
