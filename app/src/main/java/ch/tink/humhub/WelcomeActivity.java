@@ -35,7 +35,7 @@ public class WelcomeActivity extends AppCompatActivity {
 
     private void editThisText(){
         this.url = (EditText) findViewById(R.id.editText2);
-        this.url.setText("https://community.humhub.com");
+        this.url.setText("http://hambook.ampr.org");
         this.url.selectAll();
 
         InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
